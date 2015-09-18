@@ -1,0 +1,8 @@
+c:\users\detona\documents\visual studio 2015\Projects\Portas\Portas\bin\Debug\Portas.exe.config
+c:\users\detona\documents\visual studio 2015\Projects\Portas\Portas\bin\Debug\Portas.exe
+c:\users\detona\documents\visual studio 2015\Projects\Portas\Portas\bin\Debug\Portas.pdb
+c:\users\detona\documents\visual studio 2015\Projects\Portas\Portas\obj\Debug\Portas.Form1.resources
+c:\users\detona\documents\visual studio 2015\Projects\Portas\Portas\obj\Debug\Portas.Properties.Resources.resources
+c:\users\detona\documents\visual studio 2015\Projects\Portas\Portas\obj\Debug\Portas.csproj.GenerateResource.Cache
+c:\users\detona\documents\visual studio 2015\Projects\Portas\Portas\obj\Debug\Portas.exe
+c:\users\detona\documents\visual studio 2015\Projects\Portas\Portas\obj\Debug\Portas.pdb
